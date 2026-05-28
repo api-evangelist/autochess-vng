@@ -1,0 +1,32 @@
+aid: autochess-vng
+name: Autochess VNG
+description: "Rest Api for Autochess VNG"
+url: https://github.com/didadadida93/autochess-vng-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Autochess VNG
+    description: "Rest Api for Autochess VNG"
+    humanURL: https://github.com/didadadida93/autochess-vng-api
+    baseURL: https://github.com/didadadida93/autochess-vng-api
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://github.com/didadadida93/autochess-vng-api
+common:
+  - type: Website
+    url: https://github.com/didadadida93/autochess-vng-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
