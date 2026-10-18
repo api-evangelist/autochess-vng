@@ -40,7 +40,8 @@ apis:
   - name: Autochess VNG
     description: "Rest Api for Autochess VNG"
     humanURL: https://github.com/didadadida93/autochess-vng-api
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
